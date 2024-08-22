@@ -1,1 +1,1 @@
-#This is an Demo project for learning git and Github
+#This is an Demo project for learning git and Github.
